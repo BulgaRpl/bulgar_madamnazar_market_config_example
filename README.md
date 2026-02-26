@@ -1,0 +1,2 @@
+# bulgar_madamnazar_market_config_example
+bulgar_madamnazar_market_config_example
