@@ -48,7 +48,7 @@ Config.NazarLocations = { -- NAZAR COORDS, RANDOM PICKED ON SERVER START/RESTART
         coords = vector3(-258.82, 499.10, 94.71), -- NPC COORDS
         heading = 296.48, -- NPC HEADING
         cart = vector3(-258.47, 496.17, 94.85), -- CART COORDS
-		    cheading = -133.0 -- CART YAW
+		cheading = -133.0 -- CART YAW
     }
     -- ITS CONFIGURED HERE AFTER U GET THE SCRIPT
     -- ITS CONFIGURED HERE AFTER U GET THE SCRIPT
